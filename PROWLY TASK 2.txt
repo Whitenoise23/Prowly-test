@@ -4,54 +4,54 @@ TEST 1 - bug
 2 Open Google home page
 3 Select Google Voice Search
 3 Spell "prowly"
-4 Select button "Tools" from navigtion bar
+4 Select button "Tools" from navigation bar
 5 Set time filter as "Past Week"
-6 Open drop list with All filters from navigtion bar
+6 Open drop list with All filters from navigation bar
 7 Select filter Images
 8 Notice that searching results are presented as images but time filter does not work
-9 Select again button "Tools" from navigtion bar
+9 Select again button "Tools" from navigation bar
 10 Again set time filter as "Past Week"
-11 Notice that serching results are presented as images and ascendning by release date
+11 Notice that searching results are presented as images and ascending by release date
 12 Go back to Google home page
 13 Select again Google Voice Search
 14 Spell "prowly" 
-15 Select button "Tools" from navigtion bar
+15 Select button "Tools" from navigation bar
 16 Set time filter as "Past Week"
 17 This time select button Images from the navigation bar, not from the All filters drop list
-18 Notice that serching results are correctly presented as images and ascendning by release date
+18 Notice that searching results are correctly presented as images and ascending by release date
 
 TEST 2
 
-*Prerequsites - User must have prowly image
+*Prerequisites - User must have prowly image
 
 1 Open Chrome browser
 2 Open Google home page
 3 Select Google Image Search
 4 Select prowly image
-5 From the serched image select text "Prowly"
+5 From the searched image select text "Prowly"
 6 Select button "search" from the navigation bar on the right side of the screen
-7 Select button "Tools" from navigtion bar
+7 Select button "Tools" from navigation bar
 8 Set time filter as "Past Year"
-9 Selec Videos filter from navigation bar
-10 Notice that searching results changed to Videos and ascendning by release date
-11 Swich filter to News by using News buton on the navigation bar
+9 Select Videos filter from navigation bar
+10 Notice that searching results changed to Videos and ascending by release date
+11 Switch filter to News by using News button on the navigation bar
 12 Notice that time filter has been turned off
 13 Select again Videos button from the navigation bar
-14 Select button "Tools" from navigtion bar
+14 Select button "Tools" from navigation bar
 15 Set time filer as "Past Year"
 16 Select first result of the first page
-17 Watch the video and noice that video has 2,9k views in 7 months!
+17 Watch the video and notice that video has 2,9k views in 7 months!
 
 TEST 3
 
 1 Open Edge browser
 2 Open Google home page
 3 In searching field type "prowly"
-4 Selec News filter from navigation bar
-5 Select button "Tools" from navigtion bar
+4 Select News filter from navigation bar
+5 Select button "Tools" from navigation bar
 6 Notice that time filter is set as "Recent"
 7 Set time filter as "Archives"
 8 Go to the second page of the results
-9 Select result from 21 of april, 2022 (GlobeNewswire)
+9 Select result from 21 of April, 2022 (GlobeNewswire)
 10 Notice that GlobeNewswire page opens
 

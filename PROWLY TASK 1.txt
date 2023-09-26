@@ -4,29 +4,29 @@ TEST 1
 2 Open Google home page
 3 Select Google Voice Search
 4 Spell "prowly"
-5 Select drop list with filters from navigtion bar
-6 Notice that "ALL" filter is selced
+5 Select drop list with filters from navigation bar
+6 Notice that "ALL" filter is selected
 7 Select filter Images
 8 Notice that searching results changed to images
 9 Select the second result
 10 Save the image on your computer
-11 Notice that the image is propperly saved on your computer
-
+11 Notice that the image is properly saved on your computer
+12
 TEST 2
 
-*Prerequsites - User must have prowly image
+*Prerequisites - User must have prowly image
 
 1 Open Chrome browser
 2 Open Google home page
 3 Select Google Image Search
 4 Select previously saved image
-5 From the serched image select text "Prowly"
+5 From the searched image select text "Prowly"
 6 Select button "search" from the navigation bar on the right side of the screen
-7 Selec Videos filter from navigation bar
+7 Select Videos filter from navigation bar
 8 Notice that searching results changed to Videos
 9 Select the last result of the first page
 10 Watch the video
-11 Notice tha video has a comment 
+11 Notice that video has a comment 
 
 TEST 3
 
@@ -34,15 +34,15 @@ TEST 3
 2 Open Google home page
 3 In searching field type "prowly"
 4 Select Maps filter from navigation bar
-5 Notice that there is only one result and refers to the exect company - Prowly
+5 Notice that there is only one result and refers to the exact company - Prowly
 6 Select button "Directions"
-7 As a starting point type in your addres
+7 As a starting point type in your address
 8 Select "Transit" as your transport facility
 9 Select Drop list button
 10 Select "Depart at"
 11 Set your departure date as Sunday, time - 8:00
 12 Check the proposed route and the estimated arrival time
-13 Change your departure date as Moday, time - 8:00
+13 Change your departure date as Monday, time - 8:00
 14 Check the new proposed route and the new estimated arrival time
 15 Plan your way to work that you wont be late!
 
