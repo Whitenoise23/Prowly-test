@@ -11,7 +11,7 @@ TEST 1
 9 Select the second result
 10 Save the image on your computer
 11 Notice that the image is properly saved on your computer
-12
+
 TEST 2
 
 *Prerequisites - User must have prowly image
